@@ -12,3 +12,7 @@ When reporting a problem, please include:
 - A screenshot, if helpful
 
 Please do not send passwords or other sensitive account information.
+
+## Credits
+
+See [Credits](CREDITS.md) for asset attributions.
